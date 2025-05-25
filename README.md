@@ -52,22 +52,22 @@
 
 📌 Categorical Variable Analysis
 
-* Has Table booking, Has Online delivery, Rating text, Currency, Country explored using bar plots and pie charts
+ * Has Table booking, Has Online delivery, Rating text, Currency, Country explored using bar plots and pie charts
 
 🔢 Numerical Variable Analysis
 
-* Explored Aggregate rating, Votes, Average Cost for two via descriptive statistics and distributions
+ * Explored Aggregate rating, Votes, Average Cost for two via descriptive statistics and distributions
 
 🌍 Country-Based Insights
 
-* India, USA, and UK had the highest number of restaurants
-* Pie chart of restaurant distribution by top 3 countries
+ * India, USA, and UK had the highest number of restaurants
+ * Pie chart of restaurant distribution by top 3 countries
 
 ⭐ Rating Insights
 
-* Highest ratings concentrated around specific price tiers
-* Ratings of 0 (unrated) observed – important for cleaning or filtering
-* Color-coded rating summaries grouped and visualized
+ * Highest ratings concentrated around specific price tiers
+ * Ratings of 0 (unrated) observed – important for cleaning or filtering
+ * Color-coded rating summaries grouped and visualized
 
 📊 Sample Visualizations
 
@@ -92,13 +92,13 @@
 
 📬 Contact
 
- * For questions or suggestions, feel free to connect:
+* For questions or suggestions, feel free to connect:
 
 📧 Email: 2010prabhavgupta@gmail.com
 
 💼 LinkedIn: in/prabhav91
 
-© 2025 | Zomato Data Analysis by [TheMLengineer07]
+ © 2025 | Zomato Data Analysis by [TheMLengineer07]
 
 
 
