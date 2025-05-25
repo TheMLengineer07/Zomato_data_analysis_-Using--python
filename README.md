@@ -1,4 +1,4 @@
-🍽️ # Zomato Restaurant Data Analysis
+# 🍽️ Zomato Restaurant Data Analysis
 
  This project performs an exploratory data analysis (EDA) on Zomato’s global restaurant data. The dataset provides insights into restaurants across various countries, including their cuisines, ratings, delivery 
  options, and average costs.
@@ -13,7 +13,7 @@
 
 📁 Dataset Description
 
- Main Dataset: zomato.csv
+# Main Dataset: zomato.csv
 * Column Name	Description
 * Restaurant ID	Unique identifier for each restaurant
 * Restaurant Name	Name of the restaurant
