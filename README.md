@@ -34,8 +34,10 @@
 * Aggregate rating:	Overall customer rating (0 to 5)
 * Rating color, text	Visual and textual representation of rating
 * Votes:	Number of votes cast for the restaurant
-# Country Mapping File: Country-Code.xlsx
-* Maps numeric Country Code values to country names.
+  
+# Country Mapping File:
+ https://github.com/TheMLengineer07/Zomato_data_analysis_Using_python-SQL/blob/main/Country-Code.xlsx
+* Maps:numeric Country Code values to country names.
 
 🛠️ Tools & Libraries Used
  
