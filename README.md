@@ -13,25 +13,27 @@
 
 📁 Dataset Description
 
-# Main Dataset: zomato.csv
-* Column Name	Description
-* Restaurant ID	Unique identifier for each restaurant
-* Restaurant Name	Name of the restaurant
-* Country Code	Numeric country code (to be mapped via external file)
-* City	City where the restaurant is located
-* Address	Full address of the restaurant
-* Locality	Area within the city
+# Main Dataset:
+  https://github.com/TheMLengineer07/Zomato_data_analysis_Using_python-SQL/blob/main/zomato.csv
+  
+#  Column Name	Description
+* Restaurant ID	:Unique identifier for each restaurant
+* Restaurant Name:	Name of the restaurant
+* Country Code:	Numeric country code (to be mapped via external file)
+* City:	City where the restaurant is located
+* Address:	Full address of the restaurant
+* Locality:	Area within the city
 * Longitude, Latitude	Geolocation coordinates
-* Cuisines	Cuisines served by the restaurant
-* Average Cost for two	Cost estimate for two people
-* Currency	Currency of the cost
-* Has Table booking	Whether the restaurant accepts table bookings (Yes/No)
-* Has Online delivery	Availability of online delivery option
-* Is delivering now	Real-time delivery status
-* Price range	Price tier (1 to 4)
-* Aggregate rating	Overall customer rating (0 to 5)
+* Cuisines:	Cuisines served by the restaurant
+* Average Cost: for two	Cost estimate for two people
+* Currency;	Currency of the cost
+* Has Table booking:	Whether the restaurant accepts table bookings (Yes/No)
+* Has Online delivery:	Availability of online delivery option
+* Is delivering now:	Real-time delivery status
+* Price range:	Price tier (1 to 4)
+* Aggregate rating:	Overall customer rating (0 to 5)
 * Rating color, text	Visual and textual representation of rating
-* Votes	Number of votes cast for the restaurant
+* Votes:	Number of votes cast for the restaurant
 # Country Mapping File: Country-Code.xlsx
 * Maps numeric Country Code values to country names.
 
